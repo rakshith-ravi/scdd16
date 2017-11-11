@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SCDD</string>
+    <string name="lost_password_hint">Lost your password?</string>
+    <string name="username_hint">Enter your name</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="none">NULL</string>
+    <string name="new_user">New User</string>
+    <string name="sign_in"><u>Sign In</u></string>
+    <string name="agenda_text">Agenda</string>
+    <string name="venue_text">Venue</string>
+    <string name="speakers_text">Speakers</string>
+    <string name="stalls_text">Stalls</string>
+    <string name="sponsors_and_partners_text"><![CDATA[Sponsors & Partners]]></string>
+    <string name="upcoming_events_text">Upcoming Events</string>
+</resources>
