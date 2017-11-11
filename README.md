@@ -1,4 +1,4 @@
-# scdd16
+# Startups Club Demo Day 2016 (SCDD16) Android App
 
 Startups Club's Demo Day 2015-2016 App.
 
